@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+output.json
+steps.md
+.env
+sample-firebase-ai-app-3e813-firebase-adminsdk-l2l4r-da0a22960f.json
+chroma_db
